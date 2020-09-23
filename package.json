@@ -1,0 +1,25 @@
+{
+  "name": "git-status",
+  "version": "1.0.0",
+  "description": "boostrape-test",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasifkhan1998/git-status.git"
+  },
+  "author": "m wasif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasifkhan1998/git-status/issues"
+  },
+  "homepage": "https://github.com/wasifkhan1998/git-status#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
